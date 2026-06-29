@@ -1,0 +1,20 @@
+# Python / Django gitignore
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# IDE / Editor folders
+.idea/
+.vscode/
+.dist/
+
+# Operating System files
+.DS_Store
+Thumbs.db
